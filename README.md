@@ -1,2 +1,1 @@
-# AI-Lab-Experiments
-Python implementations of Artificial Intelligence lab experiments
+# Ai-LAB-A-01
